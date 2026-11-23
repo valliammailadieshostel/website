@@ -5,10 +5,10 @@ export const hostel = {
   tagline: "Your home away from home",
   subtitle:
     "Safe, clean and affordable stays for students and working professionals, with meals, Wi-Fi and 24/7 security included.",
-  phone: "+91 98765 43210",
+  phone: "+91 73974 77687",
   email: "valliammailadiesshostel@gmail.com",
   // WhatsApp number with country code. Change this to your real WhatsApp number.
-  whatsapp: "+91 98765 43210",
+  whatsapp: "+91 73974 77687",
   whatsappMessage: "Hi! I would like to know more about your hostel rooms and availability.",
   branches: [
     {
